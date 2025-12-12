@@ -3,6 +3,7 @@ Record Writing & Delivery Service is a platform that helps students easily submi
 Students fill in their personal details, the number of pages required, and then physically deliver their record book to our address.
 Our team writes the record according to their submitted requirements and returns the completed record back to them.
 This service removes the hassle of writing long academic records manually and makes the entire process simple and organized.
+
 WorkFlow:
 1️⃣ Student Submits Request Online
 The website collects:
